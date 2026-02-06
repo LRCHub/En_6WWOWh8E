@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Riptide",
+  "base_artist": "Vance Joy",
+  "createdAt": "2026-02-06T06:04:08.239849Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Riptide",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/01_Riptide_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Riptide (Reprise)",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/02_Riptide_(Reprise)_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Riptide",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/03_Riptide_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Riptide",
+      "artist": "Diamond Youth",
+      "has_synced": true,
+      "path": "select/04_Riptide_Diamond_Youth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Riptide",
+      "artist": "Treat",
+      "has_synced": false,
+      "path": "select/05_Riptide_Treat.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Riptide",
+      "artist": "Paradox",
+      "has_synced": false,
+      "path": "select/06_Riptide_Paradox.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sunshine Riptide",
+      "artist": "Fall Out Boy feat. Burna Boy",
+      "has_synced": true,
+      "path": "select/07_Sunshine_Riptide_Fall_Out_Boy_feat._Burna_Boy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sunshine Riptide (feat. Burna Boy)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/08_Sunshine_Riptide_(feat._Burna_Boy)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Riptide",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/09_Riptide_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Riptide",
+      "artist": "Ten Foot Pole",
+      "has_synced": true,
+      "path": "select/10_Riptide_Ten_Foot_Pole.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Riptide",
+      "artist": "Vance Joy",
+      "has_synced": true,
+      "path": "select/11_Riptide_Vance_Joy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunshine Riptide",
+      "artist": "Fall Out Boy/Burna Boy",
+      "has_synced": true,
+      "path": "select/12_Sunshine_Riptide_Fall_Out_Boy_Burna_Boy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sunshine Riptide Explicit",
+      "artist": "Fall Out Boy, Burna Boy",
+      "has_synced": true,
+      "path": "select/13_Sunshine_Riptide_Explicit_Fall_Out_Boy,_Burna_Boy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Riptide",
+      "artist": "Grandson",
+      "has_synced": true,
+      "path": "select/14_Riptide_Grandson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Riptide",
+      "artist": "Sick Puppies",
+      "has_synced": true,
+      "path": "select/15_Riptide_Sick_Puppies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Riptide",
+      "artist": "Vance Joy",
+      "has_synced": false,
+      "path": "select/pl_01_Riptide_Vance_Joy.txt"
+    }
+  ]
+}
